@@ -1,2 +1,2 @@
 # accident-alert
- basic source of the whole program
+A basic source of the whole program
